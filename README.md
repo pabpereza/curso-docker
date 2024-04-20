@@ -1,6 +1,6 @@
 # Curso Docker WIP
 
-## Este curso esta en desarrollo, puedes seguirme aquí o en Youtube para seguir semanalmente las actualizaciones del curso.
+**¡Este curso esta en desarrollo, puedes seguirme aquí o en Youtube para seguir semanalmente las actualizaciones del curso.!**
 
 Hola, bienvenidos al curso de Docker completamente gratuito y en español. Este curso comienza desde cero, dando por hecho que no tienes conocimientos previos hasta alcanzar un nivel intermedio. Igual te sirve como repaso o profundización de algunos aspectos si ya tienes experiencia con Docker.
 
@@ -13,11 +13,10 @@ Durante todos los vídeos me apoyaré en este repositorio, donde encontrarás lo
 Este cursos está dividido en varios capítulos, cada uno de ellos constará con un vídeo y una entrada en este repositorio. A continuación, te dejo el índice del curso.
 
 ## Índice
-
 También puedes ver este contenido más cómodamente desde mi página web, [Pabpereza.dev Curso Docker](https://pabpereza.dev/docs/cursos/)
 1. [Introducción a Docker](1.Introducción.md)
-2. [Instalación y configuración de Docker Desktop](2.Instalación.md) WIP
-3. [Conceptos básicos de Docker]() WIP
+2. [Instalación y configuración de Docker Desktop](2.Instalación.md) 
+3. [Conceptos básicos de Docker](3.Conceptos_básicos.md) WIP
 4. [Gestión de contenedores](#gestión-de-contenedores) WIP
 5. [Gestión de imágenes](#gestión-de-imágenes) WIP
 6. [Dockerfile](#dockerfile) WIP
