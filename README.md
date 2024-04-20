@@ -13,26 +13,43 @@ Durante todos los vídeos me apoyaré en este repositorio, donde encontrarás lo
 Este cursos está dividido en varios capítulos, cada uno de ellos constará con un vídeo y una entrada en este repositorio. A continuación, te dejo el índice del curso.
 
 ## Índice
-También puedes ver este contenido más cómodamente desde mi página web, [Pabpereza.dev Curso Docker](https://pabpereza.dev/docs/cursos/)
-1. [Introducción a Docker](1.Introducción.md)
-2. [Instalación y configuración de Docker Desktop](2.Instalación.md) 
-3. [Conceptos básicos de Docker](3.Conceptos_básicos.md) WIP
-4. [Gestión de contenedores](#gestión-de-contenedores) WIP
-5. [Gestión de imágenes](#gestión-de-imágenes) WIP
-6. [Dockerfile](#dockerfile) WIP
-7. [Docker build](#docker-build) WIP
-8. [Docker Compose](#docker-compose) WIP
-9.  [Volúmenes en Docker](#volúmenes-en-docker) WIP
-10. [Redes en Docker](#redes-en-docker) WIP
-11. [Docker Swarm](#docker-swarm) WIP
-12. [Docker en producción](#docker-en-producción) WIP
+También puedes ver este contenido más cómodamente desde mi página web, [pabpereza.dev - Curso Docker:](https://pabpereza.dev/docs/cursos/)
+
+Introducción:
+* [Introducción a Docker](1.Introducción.md)
+* [Instalación y configuración de Docker Desktop](2.Instalación.md) 
+* [Conceptos básicos de Docker](3.Conceptos_básicos.md)
+* [Gestión de contenedores](#gestión-de-contenedores) WIP
+* [Gestión de imágenes](#gestión-de-imágenes) WIP
+* [Dockerfile](#dockerfile) WIP
+* [Docker build](#docker-build) WIP
+* [Entrypoint y variables de entorno](#entrypoint-y-variables-de-entorno) WIP
+* [Volúmenes en Docker](#volúmenes-en-docker) WIP
+* [Redes en Docker](#redes-en-docker) WIP
+* [Docker Compose](#docker-compose) WIP
+* [Docker Swarm](#docker-swarm) WIP
+* [Docker en producción](#docker-en-producción) WIP
+
+Intermedio-Avanzado:
+* [Dockerfile: Cache y optimización](#dockerfile-cache) WIP
+* [Dockerfile: Multistage build](#dockerfile-multistage-build) WIP
+* [Dockerfile: Buildx y Multiarquitectura ](#dockerfile-buildkit) WIP
+* [Docker compose avanzado](#docker-compose-avanzado) WIP
+
+Seguridad:
+* [Analizar vulnerabilidades en las imágenes](#seguridad-imágenes) WIP
+* [Usuarios y permisos en Docker](#usuarios-permisos) WIP
+* [Namespaces, cgroups y seccomp](#namespaces-cgroups-seccomp) WIP
+* [Hardening entornos Docker](#hardening-docker) WIP
+
 
 
 ## Contribuir
 Si quieres contribuir a este repositorio, puedes hacerlo de varias formas:
 * Reportando errores
 * Proponiendo mejoras
-* Añadiendo contenido
+* Añadiendo contenido 
 * Compartiendo y difundiendo el contenido
+* Dejando una estrella para apoyar el contenido
   
 Siéntete libre de abrir una issue o un pull request con tus propuestas. **Apoya mi contenido siguiéndome en Youtube y Github, dando likes en los vídeos y dando una estrella a este repositorio.**

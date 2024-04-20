@@ -20,7 +20,3 @@ docker save -o <nombre_imagen>.tar <nombre_imagen>
 ```bash
 docker load -i <nombre_imagen>.tar
 ```
-
-También puedes ver un vídeo de youtube sobre este tema:
-
- youtube P2CGj6aSg6w 
