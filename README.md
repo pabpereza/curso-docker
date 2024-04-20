@@ -12,11 +12,12 @@ Durante todos los vídeos me apoyaré en este repositorio, donde encontrarás lo
 
 Este cursos está dividido en varios capítulos, cada uno de ellos constará con un vídeo y una entrada en este repositorio. A continuación, te dejo el índice del curso.
 
-## Indice
+## Índice
+
 También puedes ver este contenido más cómodamente desde mi página web, [Pabpereza.dev Curso Docker](https://pabpereza.dev/docs/cursos/)
 1. [Introducción a Docker](1.Introducción.md)
-2. [Instalación y configuración de Docker Desktop](#instalación-de-docker) WIP
-3. [Conceptos básicos de Docker](#conceptos-básicos-de-docker) WIP
+2. [Instalación y configuración de Docker Desktop](2.Instalación.md) WIP
+3. [Conceptos básicos de Docker]() WIP
 4. [Gestión de contenedores](#gestión-de-contenedores) WIP
 5. [Gestión de imágenes](#gestión-de-imágenes) WIP
 6. [Dockerfile](#dockerfile) WIP
