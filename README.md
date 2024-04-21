@@ -31,6 +31,7 @@ Introducción:
 * [Docker en producción](#docker-en-producción) WIP
 
 Intermedio-Avanzado:
+* [Migra tu aplicación a Docker y microservicios](#migra-tu-aplicación) WIP
 * [Dockerfile: Cache y optimización](#dockerfile-cache) WIP
 * [Dockerfile: Multistage build](#dockerfile-multistage-build) WIP
 * [Dockerfile: Buildx y Multiarquitectura ](#dockerfile-buildkit) WIP
