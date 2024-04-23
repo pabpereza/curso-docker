@@ -10,16 +10,17 @@ Durante todos los vídeos me apoyaré en este repositorio, donde encontrarás lo
 
 **Apoya este contenido gratuito dejando una estrella a este repositorio y suscribiéndote a mi canal de Youtube.**
 
-Este cursos está dividido en varios capítulos, cada uno de ellos constará con un vídeo y una entrada en este repositorio. A continuación, te dejo el índice del curso.
+Este cursos está dividido en varios capítulos, cada uno de ellos constará con un vídeo y una entrada en este repositorio. A continuación, te dejo el índice del curso. Hacerlo en capítulos en vez de un único vídeo largo, me permite mantener el contenido actualizado y corregir errores de forma más sencilla, teniendo que volver a grabar vídeos puntuales en vez de todo el curso, cuando cambien algunas funcionalidades, se añadan nuevas o se corrijan errores. 
 
 ## Índice
 También puedes ver este contenido más cómodamente desde mi página web, [pabpereza.dev - Curso Docker:](https://pabpereza.dev/docs/cursos/)
 
 Introducción:
-* [Introducción a Docker](1.Introducción.md)
-* [Instalación y configuración de Docker Desktop](2.Instalación.md) 
-* [Conceptos básicos de Docker](3.Conceptos_básicos.md)
-* [Gestión de contenedores](#gestión-de-contenedores) WIP
+* [Introducción a Docker](1.Introduccion.md)
+* [Instalación y configuración de Docker Desktop](2.Instalacion.md) 
+* [Conceptos básicos de Docker](3.Conceptos_basicos.md)
+* [Ejecutar contenedores](4.Ejecutar_un_contenedor.md) WIP
+* [Gestión de contenedores](5.Gestion_de_contenedores.md) WIP
 * [Gestión de imágenes](#gestión-de-imágenes) WIP
 * [Dockerfile](#dockerfile) WIP
 * [Docker build](#docker-build) WIP
